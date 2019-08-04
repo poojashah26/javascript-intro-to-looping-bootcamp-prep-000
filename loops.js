@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function forLoop(array) {
   for (let i = 0; i < 25; i++) {
     if (i === 1) {
@@ -27,4 +28,11 @@ function doWhileLoop(num) {
   do {
   console.log("I run once regardless.");
  } while (incrementVariable() < num)
+=======
+forLoop (let i = 0; i < 25; i++) {
+  if i == 1:
+   print("I am 1 strange loop")
+  else:
+   print("I am ${i} strange loops")
+>>>>>>> dd270084aa6afdaec3785d211d5826ecef053c53
 }
